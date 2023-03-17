@@ -32,8 +32,8 @@ PATCH /items/{id}
 ```
 
 | Parameter | Type  | Description                |
-| :-------- |:------| :------------------------- |
-| `StudentId` | `int` | **Required** |
+|:----------|:------| :------------------------- |
+| `Todo ID` | `int` | **Required** |
 
 #### Delete todo (Mark Status as "Delete")
 
@@ -42,8 +42,8 @@ DELETE /items/{id}
 ```
 
 | Parameter | Type  | Description                |
-| :-------- |:------| :------------------------- |
-| `StudentId` | `int` | **Required** |
+|:----------|:------| :------------------------- |
+| `Todo ID` | `int` | **Required** |
 
 #### Paging
 
